@@ -1,0 +1,8 @@
+print('Hello \nwould \nyou \nlike to \nplay a game?')
+print()
+print()
+name = input('What is your name?')
+print()
+print('Hello')
+print(name)
+print("Let's play a game of chess")
